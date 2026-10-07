@@ -1,5 +1,5 @@
 Integrantes del Equipo
-Rafael Cano Pérez — A01804697
+Rafael Cano Pérez — A01804697,
 Jordan Adrián Bustamante Luna — A01805057
 
 1- Definición del Proyecto
